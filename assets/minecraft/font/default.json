@@ -5,14 +5,14 @@
       "file": "minecraft:font/witcher.png",
       "ascent": 20,
       "height": 20,
-      "chars": ["㊚"]
+      "chars": ["丁"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/cherry.png",
       "ascent": 20,
       "height": 20,
-      "chars": ["㊨"]
+      "chars": ["丂"]
     }
   ]
 }
